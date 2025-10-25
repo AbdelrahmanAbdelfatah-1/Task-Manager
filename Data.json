@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 0,
+        "name": "abdo",
+        "email": "abedomahmed@gmail.com",
+        "Password": "123",
+        "tasks": [
+            {
+                "type": "work",
+                "title": "rep_1",
+                "description": "electronics",
+                "due_date": "2025-8-27",
+                "status": "in progress",
+                "priority": "high"
+            },
+            {
+                "type": "personal",
+                "title": "rep_2",
+                "description": "communication",
+                "due_date": "2025-8-28",
+                "status": "incomplete",
+                "category": "study"
+            },
+            {
+                "type": "general",
+                "title": "rep_3",
+                "description": "coding",
+                "due_date": "2025-8-29",
+                "status": "completed"
+            },
+            {
+                "type": "general",
+                "title": "rep_4",
+                "description": "programming",
+                "due_date": "2025-9-1",
+                "status": "incomplete"
+            }
+        ],
+        "rating": [
+            "the services is great"
+        ]
+    },
+    {
+        "ID": 1,
+        "name": "ali",
+        "email": "ali12@gmail.com",
+        "Password": "1234",
+        "tasks": [
+            {
+                "type": "work",
+                "title": "rep_1",
+                "description": "electro",
+                "due_date": "2025-9-5",
+                "status": "incomplete",
+                "priority": "low"
+            }
+        ],
+        "rating": [
+            "the services is slow"
+        ]
+    }
+]
